@@ -133,7 +133,7 @@ Imports other mui files. You can also set it to only import if a condition is me
 Common sizes used for conditions:
 - <1.5 - Tablet (narrower than 3:2)
 - <1.8 - Regular (16:9 or narrower)
-- >1.8 - Widescreen (wider than 16:9) 
+- \>1.8 - Widescreen (wider than 16:9) 
 
 ## @version
 ```
